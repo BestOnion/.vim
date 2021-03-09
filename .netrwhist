@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/onions/.vim'
+let g:netrw_dirhist_7='/home/onions/work/jky/shop_center/app'
+let g:netrw_dirhist_6='/home/onions/work'
+let g:netrw_dirhist_5='/home/onions/.config'
+let g:netrw_dirhist_4='/home/onions/.config/fish/conf.d'
+let g:netrw_dirhist_3='/home/onions/.vim/vimrc'
+let g:netrw_dirhist_2='/home/onions/docker/elasticsearch/elasticsearch.yml'
+let g:netrw_dirhist_1='/home/onions/.oh-my-zsh/plugins'
